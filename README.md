@@ -1,5 +1,7 @@
 # WarShips
 This project, titled "War Ships," was developed over four-day period, primarily intended for submission as part of a job application evaluation process. 
+![ezgif-3-cb8fe483e0](https://github.com/basagamedev/WarShips/assets/152202075/2885fa9e-dfaa-431d-b859-e3c015e592bf)
+![ezgif-3-6bcad9f95d](https://github.com/basagamedev/WarShips/assets/152202075/f6fb935f-5ec4-4150-9a77-03c932e04726)
 
 The game, which falls into the naval battle genre, has been meticulously designed to showcase a wide range of programming design patterns and principles.
 
