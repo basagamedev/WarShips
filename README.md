@@ -1,5 +1,5 @@
 # WarShips
-This project, titled "Naval Battle," was developed over four-day period, primarily intended for submission as part of a job application evaluation process. 
+This project, titled "War Ships," was developed over four-day period, primarily intended for submission as part of a job application evaluation process. 
 
 The game, which falls into the naval battle genre, has been meticulously designed to showcase a wide range of programming design patterns and principles.
 
