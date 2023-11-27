@@ -1,0 +1,265 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShipSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d9aa93d98d7de9246994b32120ec41b5, type: 3}
+    - {fileID: 102900000, guid: 7f8268d3333a61e4c8fdb8b5955696b1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 7482667652216324306, guid: cabfb00870c30bf4d94a7a628438f487, type: 3}
+  - {fileID: 21300000, guid: 86f8d2fa1b3bc9544ba104f02cc0aa56, type: 3}
+  - {fileID: 1301594550, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -915808046, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 2000103387, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1043222503, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1261457701, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -410977296, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1027453506, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 337441292, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1334509396, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1265187727, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 480884516, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1237077645, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1753327750, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -2105435753, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1290114104, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1185162539, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1272257087, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -632238935, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1687862726, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1193968048, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -2027980097, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 785622396, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1028448148, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1922154614, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -705967213, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1524572497, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1476421996, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -277798722, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 480515611, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 2103966909, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -669723216, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1373086153, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 104269280, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1061951271, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 579154829, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1653330640, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1755676953, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 2013995940, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 20435968, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 234703294, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -2117557787, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1044952669, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1822818383, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 749562531, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 195067257, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -296169610, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1978848571, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1972297516, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 998668328, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1447057128, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1286510859, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1526937189, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 544112401, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1012694142, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 979901427, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -503426212, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -656193938, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1735357268, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -444526565, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -730381275, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1357761688, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 705179577, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1658694034, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -2080087135, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -468273135, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1906038852, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1678219306, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1279662739, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1377987554, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -270651402, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1380395585, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1538079090, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1087850014, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1728525237, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 178003669, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 463267041, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1459757077, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1955335016, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1477504761, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1963988175, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -129837570, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1960975586, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1971986231, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -212325808, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 494097877, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 500010988, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 480614517, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 216302994, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1122729118, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -142771359, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 331094907, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -2096185167, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -799749421, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -210351203, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1941755679, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 699830972, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 899658445, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 933261097, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -148277149, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: 1071539002, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -1952879472, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  - {fileID: -323457668, guid: bab93edf3e378294bba5115cb055f134, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Square
+  - Health-Bar
+  - shipsMiscellaneous_sheet_21
+  - shipsMiscellaneous_sheet_20
+  - shipsMiscellaneous_sheet_23
+  - shipsMiscellaneous_sheet_22
+  - shipsMiscellaneous_sheet_54
+  - shipsMiscellaneous_sheet_25
+  - shipsMiscellaneous_sheet_55
+  - shipsMiscellaneous_sheet_24
+  - shipsMiscellaneous_sheet_56
+  - shipsMiscellaneous_sheet_27
+  - shipsMiscellaneous_sheet_57
+  - shipsMiscellaneous_sheet_47
+  - shipsMiscellaneous_sheet_26
+  - shipsMiscellaneous_sheet_50
+  - shipsMiscellaneous_sheet_46
+  - shipsMiscellaneous_sheet_29
+  - shipsMiscellaneous_sheet_51
+  - shipsMiscellaneous_sheet_45
+  - shipsMiscellaneous_sheet_28
+  - shipsMiscellaneous_sheet_52
+  - shipsMiscellaneous_sheet_44
+  - shipsMiscellaneous_sheet_53
+  - shipsMiscellaneous_sheet_43
+  - shipsMiscellaneous_sheet_42
+  - shipsMiscellaneous_sheet_41
+  - shipsMiscellaneous_sheet_40
+  - shipsMiscellaneous_sheet_58
+  - shipsMiscellaneous_sheet_59
+  - shipsMiscellaneous_sheet_49
+  - shipsMiscellaneous_sheet_48
+  - shipsMiscellaneous_sheet_100
+  - shipsMiscellaneous_sheet_101
+  - shipsMiscellaneous_sheet_9
+  - shipsMiscellaneous_sheet_8
+  - shipsMiscellaneous_sheet_1
+  - shipsMiscellaneous_sheet_0
+  - shipsMiscellaneous_sheet_3
+  - shipsMiscellaneous_sheet_2
+  - shipsMiscellaneous_sheet_5
+  - shipsMiscellaneous_sheet_4
+  - shipsMiscellaneous_sheet_7
+  - shipsMiscellaneous_sheet_6
+  - shipsMiscellaneous_sheet_90
+  - shipsMiscellaneous_sheet_91
+  - shipsMiscellaneous_sheet_92
+  - shipsMiscellaneous_sheet_93
+  - shipsMiscellaneous_sheet_83
+  - shipsMiscellaneous_sheet_94
+  - shipsMiscellaneous_sheet_82
+  - shipsMiscellaneous_sheet_95
+  - shipsMiscellaneous_sheet_81
+  - shipsMiscellaneous_sheet_96
+  - shipsMiscellaneous_sheet_80
+  - shipsMiscellaneous_sheet_97
+  - shipsMiscellaneous_sheet_87
+  - shipsMiscellaneous_sheet_98
+  - shipsMiscellaneous_sheet_86
+  - shipsMiscellaneous_sheet_18
+  - shipsMiscellaneous_sheet_99
+  - shipsMiscellaneous_sheet_85
+  - shipsMiscellaneous_sheet_19
+  - shipsMiscellaneous_sheet_84
+  - shipsMiscellaneous_sheet_78
+  - shipsMiscellaneous_sheet_89
+  - shipsMiscellaneous_sheet_79
+  - shipsMiscellaneous_sheet_88
+  - shipsMiscellaneous_sheet_10
+  - shipsMiscellaneous_sheet_11
+  - shipsMiscellaneous_sheet_69
+  - shipsMiscellaneous_sheet_12
+  - shipsMiscellaneous_sheet_72
+  - shipsMiscellaneous_sheet_68
+  - shipsMiscellaneous_sheet_13
+  - shipsMiscellaneous_sheet_73
+  - shipsMiscellaneous_sheet_14
+  - shipsMiscellaneous_sheet_38
+  - shipsMiscellaneous_sheet_70
+  - shipsMiscellaneous_sheet_15
+  - shipsMiscellaneous_sheet_39
+  - shipsMiscellaneous_sheet_71
+  - shipsMiscellaneous_sheet_65
+  - shipsMiscellaneous_sheet_16
+  - shipsMiscellaneous_sheet_36
+  - shipsMiscellaneous_sheet_76
+  - shipsMiscellaneous_sheet_64
+  - shipsMiscellaneous_sheet_17
+  - shipsMiscellaneous_sheet_37
+  - shipsMiscellaneous_sheet_77
+  - shipsMiscellaneous_sheet_67
+  - shipsMiscellaneous_sheet_34
+  - shipsMiscellaneous_sheet_74
+  - shipsMiscellaneous_sheet_66
+  - shipsMiscellaneous_sheet_35
+  - shipsMiscellaneous_sheet_75
+  - shipsMiscellaneous_sheet_61
+  - shipsMiscellaneous_sheet_32
+  - shipsMiscellaneous_sheet_60
+  - shipsMiscellaneous_sheet_33
+  - shipsMiscellaneous_sheet_63
+  - shipsMiscellaneous_sheet_30
+  - shipsMiscellaneous_sheet_62
+  - shipsMiscellaneous_sheet_31
+  m_RenderDataMap: {}
+  m_Tag: ShipSpriteAtlas
+  m_IsVariant: 0

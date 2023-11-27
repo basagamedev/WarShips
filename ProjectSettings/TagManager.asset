@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Died
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Sea
+  - Water
+  - UI
+  - Obstacles
+  - Border
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ship
+    uniqueID: 3395761311
+    locked: 0
+  - name: Ball
+    uniqueID: 3198705081
+    locked: 0
+  - name: Cannon
+    uniqueID: 85821807
+    locked: 0
+  - name: FX
+    uniqueID: 4152570011
+    locked: 0
