@@ -23,7 +23,7 @@ Cannon Shooter: An enemy ship that attacks the player with cannonball shots.
 Kamikaze: An aggressive enemy that attempts to collide with the player's ship.
 
 # Design Patterns and Principles:
-Singleton: Ensures that classes such as the Game Manager have only one instance.
+Singleton: Ensures that classes such as the Game Manager have only one instance while providing a global point of access to that instance.
 
 Pool System: Efficiently manages the instantiation of projectiles and enemies, reducing the overhead of object creation and destruction.
 
